@@ -1,0 +1,4 @@
+psutil==5.9.8
+influxdb-client==1.36.1
+python-dotenv==1.0.0
+requests
